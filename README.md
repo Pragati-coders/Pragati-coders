@@ -42,7 +42,7 @@
 
 ---
 
-# About Me
+# About me 
 
 ```ts
 const pragati = {
