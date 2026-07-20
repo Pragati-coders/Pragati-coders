@@ -63,8 +63,6 @@ Beyond development, I enjoy exploring emerging AI technologies, developer toolin
 
 ✔ Open Source Collaboration
 
-✔ Product Engineering
-
 ---
 
 # Tech Stack
