@@ -556,26 +556,6 @@ Worked on web development projects involving frontend implementation, backend lo
 
 ---
 
-## Full Stack Developer Intern — Codesoft
-
-**Duration:** Internship
-
-Worked on multiple web development projects to strengthen practical knowledge of full-stack development and software engineering fundamentals.
-
-### Key Contributions
-
-- Built responsive websites
-- Developed JavaScript functionality
-- Implemented CRUD operations
-- Improved UI consistency
-- Practiced version control using Git
-
-**Skills**
-
-`HTML` `CSS` `JavaScript` `React` `Git`
-
----
-
 # Engineering Highlights
 
 | Area | Experience |
