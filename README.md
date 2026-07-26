@@ -441,26 +441,6 @@ Contributed to frontend and backend development tasks while working on scalable 
 
 ---
 
-## Full Stack Developer Intern — Bluestock
-
-**Duration:** Internship
-
-Worked on web development projects involving frontend implementation, backend logic, and database integration while following clean coding practices.
-
-### Key Contributions
-
-- Implemented responsive user interfaces
-- Developed backend functionalities
-- Integrated databases
-- Worked with authentication modules
-- Improved application usability
-
-**Skills**
-
-`MERN Stack` `MongoDB` `Express.js` `React` `Node.js`
-
----
-
 # Engineering Highlights
 
 | Area | Experience |
