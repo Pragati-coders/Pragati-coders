@@ -421,25 +421,6 @@ Worked on modern full-stack web applications using the MERN ecosystem, focusing 
 
 ---
 
-## MERN Developer Intern — CollegeDekho
-
-**Duration:** Internship
-
-Contributed to frontend and backend development tasks while working on scalable web applications and reusable UI components.
-
-### Key Contributions
-
-- Built reusable React components
-- Worked with API integration
-- Improved responsive layouts
-- Fixed frontend bugs and optimized performance
-- Collaborated with mentors and development teams
-
-**Skills**
-
-`React` `JavaScript` `Tailwind CSS` `REST API` `Git`
-
----
 
 # Engineering Highlights
 
