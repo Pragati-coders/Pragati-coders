@@ -456,26 +456,6 @@ Worked on modern full-stack web applications using the MERN ecosystem, focusing 
 
 ---
 
-# Certifications
-
-## Amazon Web Services (AWS)
-
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
----
-
-## Deloitte
-
-![Deloitte](https://img.shields.io/badge/Deloitte-Technology-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
-
----
-
 ## Currently Exploring
 
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge)
