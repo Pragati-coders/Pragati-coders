@@ -43,7 +43,7 @@
 ---
 ## Professional Summary
 
-I am a **Full-Stack MERN Developer** passionate about engineering scalable web applications, AI-powered software, and modern SaaS platforms.
+I am a **Full-Stack Software Developer** passionate about engineering scalable web applications, AI-powered software, and modern SaaS platforms.
 
 My focus is on creating production-ready applications using **React**, **Next.js**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, and **TypeScript**, while following clean architecture, performance optimization, and user-centric design principles.
 
