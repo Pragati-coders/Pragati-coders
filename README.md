@@ -128,7 +128,7 @@ Beyond development, I enjoy exploring emerging AI technologies, developer toolin
 
 ---
 
-# AI / ML Expertise
+# AI  Expertise
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
