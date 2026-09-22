@@ -648,3 +648,13 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:6a11cb"/>
 
 </div>
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, please consider giving it a **Star ⭐ ** on GitHub.
+
+It helps others discover the project and motivates future development.
+
+---
